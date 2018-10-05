@@ -1,0 +1,18 @@
+{
+  "name": "mybank",
+  "version": "1.0.0",
+  "description": "My Bank Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "MyBank"
+  },
+  "keywords": [
+    "ThisIsMyPro"
+  ],
+  "author": "kani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
